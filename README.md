@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, My Name is Roman K 👋
 
-<!--
-**ivelgomu-debug/ivelgomu-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Service Desk Analyst with a strong interest in Infrastructure, Active Directory, Azure, and PowerShell automation.
 
-Here are some ideas to get you started:
+Currently building hands-on projects to strengthen my skills in Windows Server administration, identity management, cloud infrastructure, and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technologies & Tools
+
+- Microsoft Azure
+- Windows Server
+- Active Directory Domain Services
+- DNS
+- Group Policy
+- PowerShell
+- Git & GitHub
+- Microsoft Entra ID
+
+---
+
+## Featured Projects
+
+### Active Directory Azure Homelab
+
+Built an Active Directory lab environment in Microsoft Azure to gain practical experience with:
+
+- Active Directory Domain Services
+- DNS configuration and troubleshooting
+- Organizational Units (OUs)
+- Security Groups
+- User Administration
+- PowerShell Automation
+
+Repository:
+
+- https://github.com/ivelgomu-debug/active_directory_azure_homelab
+
+---
+
+## Currently Learning
+
+- Group Policy Management
+- Microsoft Entra Connect
+- Infrastructure as Code (Bicep/Terraform)
+- Identity & Access Management
+- Azure Networking
+
+---
+
+## Career Goal
+
+To transition from Service Desk into Infrastructure, Cloud, or Platform Engineering through hands-on lab environments, automation, and continuous learning.
+
+---
+
+## Certifications
+
+- Microsoft Certified: Azure Fundamentals (AZ-900)
