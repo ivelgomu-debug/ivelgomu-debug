@@ -2,7 +2,7 @@
 
 Service Desk Analyst with a strong interest in Infrastructure, Active Directory, Azure, and PowerShell automation.
 
-Currently building hands-on projects to strengthen my skills in Windows Server administration, identity management, cloud infrastructure, and automation.
+Currently building hands-on lab projects to develop practical skills in Windows Server, identity management, and cloud infrastructure.
 
 ---
 
@@ -23,26 +23,24 @@ Currently building hands-on projects to strengthen my skills in Windows Server a
 
 ### Active Directory Azure Homelab
 
-Built an Active Directory lab environment in Microsoft Azure to gain practical experience with:
+Built a complete Active Directory lab in Microsoft Azure, including:
 
-- Active Directory Domain Services
-- DNS configuration and troubleshooting
-- Organizational Units (OUs)
-- Security Groups
-- User Administration
-- PowerShell Automation
+- Domain Controller deployment and configuration
+- Domain-joined Windows client
+- Organizational Units, users, and security groups
+- Group Policy creation and testing
+- PowerShell automation for user management
 
-Repository:
-
-- https://github.com/ivelgomu-debug/active_directory_azure_homelab
+**Repository:**  
+[https://github.com/ivelgomu-debug/active_directory_azure_homelab](https://github.com/ivelgomu-debug/active_directory_azure_homelab)
 
 ---
 
 ## Currently Learning
 
 - Group Policy Management
-- Microsoft Entra Connect
-- Infrastructure as Code (Bicep/Terraform)
+- Microsoft Entra Connect / Hybrid Identity
+- Infrastructure as Code (Bicep / Terraform)
 - Identity & Access Management
 - Azure Networking
 
@@ -50,7 +48,7 @@ Repository:
 
 ## Career Goal
 
-To transition from Service Desk into Infrastructure, Cloud, or Platform Engineering through hands-on lab environments, automation, and continuous learning.
+Transition from Service Desk into Infrastructure, Cloud, or Platform Engineering through hands-on labs, automation, and continuous learning.
 
 ---
 
