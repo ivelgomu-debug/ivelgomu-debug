@@ -1,8 +1,8 @@
-# Hi, My Name is Roman K 👋
+# Hi, I'm Roman K 👋
 
-Service Desk Analyst with a strong interest in Infrastructure, Active Directory, Azure, and PowerShell automation.
+Service Desk Analyst focused on building practical skills in Infrastructure, Active Directory, Azure, and PowerShell automation.
 
-Currently building hands-on lab projects to develop practical skills in Windows Server, identity management, and cloud infrastructure.
+I use hands-on lab environments to develop real-world experience in identity management, Windows Server administration, and cloud infrastructure.
 
 ---
 
@@ -11,35 +11,36 @@ Currently building hands-on lab projects to develop practical skills in Windows 
 - Microsoft Azure
 - Windows Server
 - Active Directory Domain Services
-- DNS
 - Group Policy
+- DNS
 - PowerShell
 - Git & GitHub
 - Microsoft Entra ID
 
 ---
 
-## Featured Projects
+## Featured Project
 
 ### Active Directory Azure Homelab
 
-Built a complete Active Directory lab in Microsoft Azure, including:
+Built a complete Active Directory environment in Azure that includes:
 
-- Domain Controller deployment and configuration
-- Domain-joined Windows client
+- Windows Server Domain Controller
+- Domain-joined client machine on the same VNet and subnet
+- DNS configuration pointing clients to the Domain Controller
 - Organizational Units, users, and security groups
 - Group Policy creation and testing
-- PowerShell automation for user management
+- PowerShell scripts for user administration
 
 **Repository:**  
-[https://github.com/ivelgomu-debug/active_directory_azure_homelab](https://github.com/ivelgomu-debug/active_directory_azure_homelab)
+[active_directory_azure_homelab](https://github.com/ivelgomu-debug/active_directory_azure_homelab)
 
 ---
 
 ## Currently Learning
 
-- Group Policy Management
-- Microsoft Entra Connect / Hybrid Identity
+- Group Policy Management & troubleshooting
+- Hybrid Identity (Microsoft Entra Connect)
 - Infrastructure as Code (Bicep / Terraform)
 - Identity & Access Management
 - Azure Networking
@@ -48,7 +49,7 @@ Built a complete Active Directory lab in Microsoft Azure, including:
 
 ## Career Goal
 
-Transition from Service Desk into Infrastructure, Cloud, or Platform Engineering through hands-on labs, automation, and continuous learning.
+Transition from Service Desk into an Infrastructure, Cloud, or Platform Engineering role by developing strong hands-on skills through labs, automation, and continuous learning.
 
 ---
 
